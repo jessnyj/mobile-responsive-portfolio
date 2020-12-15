@@ -1,0 +1,6 @@
+$container-max-widths: (
+  sm: 400px,
+  md: 768px,
+  lg: 992px,
+ 
+);
