@@ -22,6 +22,8 @@ section {
 figure {
     float: left;
     margin-right: 20px;
+    height: 200px;
+    width: 200px,
   }
 
 .img {
