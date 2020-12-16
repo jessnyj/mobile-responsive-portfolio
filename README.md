@@ -1,7 +1,7 @@
 # mobile-responsive-portfolio
 
 ## Site Picture
-![Site](./assets/images/jessny-site.png)
+![Site](./Assets/Images/jessny-site.png)
 
 ## Technologies Used
 
